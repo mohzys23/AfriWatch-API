@@ -1,6 +1,0 @@
-{
-  "env": {
-    "MONGO_URI": "mongodb+srv://mohzys23:qMZab9qsFsdRHaZR@awriwatchcluster-1.nefkzlj.mongodb.net/?retryWrites=true&w=majority",
-    "CLIENT_URL": "http://localhost:3000"
-  }
-}

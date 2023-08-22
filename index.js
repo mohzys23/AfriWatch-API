@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 
 
 
-//
+// decleared routes
 const HomeRoute = require('./routes/home');
 
 

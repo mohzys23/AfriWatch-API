@@ -1,4 +1,10 @@
-/node_modules
-npm-debug.log
-.DS_Store
-/*.env
+# Ignore node_modules and npm lock files
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Ignore .env files
+.env
+
+# Ignore nodemon.json
+nodemon.json
